@@ -7,6 +7,11 @@
 }
 .MainHeader {
     background-color: #93C0A4;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    font-family: 'Anton', sans-serif;
 }
 
 .LinkStyle :hover {
