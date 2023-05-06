@@ -1,0 +1,14 @@
+.MainWrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    gap: 20px;
+}
+.MainHeader {
+    background-color: #93C0A4;
+}
+
+.LinkStyle :hover {
+    cursor: pointer;
+}
